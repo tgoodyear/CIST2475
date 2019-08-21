@@ -1,1 +1,1 @@
-# CIST2475 - Intro to Game AI
+# CIST2745 - Intro to Game AI
